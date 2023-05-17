@@ -1,0 +1,3 @@
+def bugfix():
+    if a == 5:
+        return a * a
